@@ -19,10 +19,20 @@ export default function Projects() {
       image: "/images/sam_sant.png"
     },
     {
+      title: "NeuroAdHaptive: Control architecture for measuring long-term haptic device adaptation and user experience",
+      description: "Adaptive classification and control system for navigation technology for the visually impaired. Hierarchical Bayesian learning with per-user model blending, nested feedback adaptation, and individual-difference segmentation, designed for habric™.",
+      tags: ["Bayesian Learning", "Adaptive Control", "Haptics", "Navigation", "Accessibility"],
+      category: "Startup",
+      status: "Ongoing",
+      date: "Jun. 2026 – Present",
+      github: "",
+      image: "/images/habric-image.png"
+    },
+    {
       title: "NALP - NeuroAdaptive Language Processing Engine",
       description: "Designing adaptive signal architecture for Gabb's K-12 language learning platform in XR environments. Research focus: struggle detection, spatial memory, attention and cognitive load detection, neuroadaptive interaction.",
       tags: ["Python", "EEG", "Eye-Tracking", "XR", "Cognitive Load", "HCI"],
-      category: "Industry",
+      category: "Startup",
       status: "Ongoing",
       date: "Apr. 2026 – Present",
       github: "",
